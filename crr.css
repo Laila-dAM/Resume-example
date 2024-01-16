@@ -33,3 +33,12 @@ img {
 h1, h2 {
     color: #ff69b4
 }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
